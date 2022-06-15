@@ -4,4 +4,4 @@ e esperar a resposta (Echo Reply). Através desse protocolo ICMP, podemos verifi
 Para testar a funcionalidade: 
 Utilizando o windows, abri a cmd e enviei o comando "ping www.google.com.br", recebendo como resposta a informação abaixo.
 
-<p align="center"><img  width="500" alt="tela cmd com o resultado do teste de ping" src="https://github.com/42kkkkkaren/computer_networking/img/ping_test_cmd.jpg?raw=true" /></p>
+![alt text](https://github.com/42kkkkkaren/computer_networking/blob/main/img/ping_test_cmd.jpg)
