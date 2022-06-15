@@ -1,0 +1,8 @@
+ping é uma ferramenta utilizada para testar conectividade. Dentro do ping temos o protocolo ICMP responsável por fazer a requisição até uma máquina remota (Echo Request) 
+e esperar a resposta (Echo Reply). Através desse protocolo ICMP, podemos verificar se temos uma resposta da máquina remota, sabendo assim se temos conectividade.
+
+Para testar a funcionalidade: 
+Utilizando o windows, abri a cmd e enviei o comando "ping www.google.com.br", recebendo como resposta a informação abaixo.
+<p align="center">
+  <img src="blob:https://web.whatsapp.com/527da51c-82a2-418c-8a5d-a11b7b28b05f" width="350" alt="ping cmd test">
+</p>
