@@ -7,3 +7,8 @@ tracert retornou à informação (*) e passou a informação para uma próxima m
 resposta ao nosso chamado. O que acontece seria que esse tipo de teste pode ser interpretado como uma tentativa de “scanear” possíveis portas abertas e 
 vulnerabilidades que possam existir, caso seja usado por um usuário malicioso, pode ser usada como uma forma de reconhecimento da rede dessa possível vítima 
 para que assim possa explorar possíveis falhas. 
+
+Para testar a funcionalidade: 
+Utilizando o windows, abri a cmd e enviei o comando "tracert www.google.com.br", recebendo como resposta a informação abaixo.
+
+<p align="center"><img  width="500" alt="teste de ping" src="https://github.com/42kkkkkaren/computer_networking/blob/main/img/traceroute_test_cmd.jpg" /></p>
