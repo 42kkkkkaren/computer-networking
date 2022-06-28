@@ -1,5 +1,17 @@
+Ping
+
 ping é uma ferramenta utilizada para testar conectividade. Dentro do ping temos o protocolo ICMP responsável por fazer a requisição até uma máquina remota (Echo Request) 
-e esperar a resposta (Echo Reply). Através desse protocolo ICMP, podemos verificar se temos uma resposta da máquina remota, sabendo assim se temos conectividade.
+e esperar a resposta (Echo Reply). Através desse protocolo ICMP, podemos verificar se temos uma resposta da máquina remota, sabendo assim se temos conectividade. 
+
+Quando o ping está mais elevado em relação ao valor que normalmente apresenta significa que podemos ter um problema temos um problema em nossa comunicação 
+- tanto na comunicação de ida quanto na da volta. 
+
+O TTL que aparece no teste do ping informa qual é a máxima quantidade de hops que minha informação pode passar antes de ser descartada. É a quantidade de 
+máquinas que ela vai poder passar no caminho. 
+
+DNS (Domain Name System): ao digitarmos www.google.com, ocorre uma tradução entre o nome e o endereço IP da máquina do google que estamos acessando. 
+As máquinas para serem identificadas na rede devem possuir um endereçamento IP - converte nomes de domínio legíveis por humanos (por exemplo, www.amazon.com) 
+em endereços IP legíveis por máquina (por exemplo, 192.0.2.44). 
 
 Para testar a funcionalidade: 
 Utilizando o windows, abri a cmd e enviei o comando "ping www.google.com.br", recebendo como resposta a informação abaixo.
